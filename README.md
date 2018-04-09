@@ -35,6 +35,8 @@ For iOS:
 https://documentation.onesignal.com/docs/generate-an-ios-push-certificate
 
 
+# Please feel free to open issues if any :)
+
 
 [OneSignal](https://onesignal.com/) is a free push notification service for mobile apps. 
 
