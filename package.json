@@ -1,0 +1,34 @@
+{
+  "name": "react-native-onesignal-sdk",
+  "version": "1.0.1",
+  "description": "React Native OneSignal SDK",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "invariant": "^2.2.2"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "notifications",
+    "push",
+    "apns",
+    "gcm",
+    "onesignal"
+  ],
+  "homepage": "https://github.com/SocialSkyInc/react-native-onesignal-sdk.git",
+  "bugs": {
+    "url": "https://github.com/SocialSkyInc/react-native-onesignal-sdk.git/issues"
+  },
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SocialSkyInc/react-native-onesignal-sdk.git"
+  },
+  "author": "SocialSky <http://www.socialskycorp.com>",
+  "license": "OpenSYL"
+}

@@ -1,0 +1,6 @@
+android/build
+ios/RCTOneSignal.xcodeproj/xcuserdata
+*.iml
+local.properties
+ios/RCTOneSignal.xcodeproj/project.xcworkspace/xcshareddata
+android/.idea
